@@ -14,3 +14,5 @@ MATLAB Codes for graphing and viewing results for the 2024 NSF QAO REU at The Un
 *groundstaterelerror graphs the errors between ground states for 3 bosons on 3 sites with and without nmax, and implementing U'.
 
 *l3entanglement calculates and graphs spatial and particle entanglement for 3 bosons on 3 sites as U' increases.
+
+*inlaid figures graphs ground state energy and the corresponding error in the same figure for increasing U' in 3 boson 3 site case. 
