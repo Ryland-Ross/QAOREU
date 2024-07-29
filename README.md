@@ -11,4 +11,6 @@ MATLAB Codes for graphing and viewing results for the 2024 NSF QAO REU at The Un
 
 *QMCvsTheoreticalforLN3 compares the calculated ground state for 3 bosons on 3 site Bose Hubbard to the values from Julia QMC.
 
-*groundstaterelerror graphs the errors between ground states for L=N=3 with and without nmax, and implementing U'.
+*groundstaterelerror graphs the errors between ground states for 3 bosons on 3 sites with and without nmax, and implementing U'.
+
+*l3entanglement calculates and graphs spatial and particle entanglement for 3 bosons on 3 sites as U' increases.
