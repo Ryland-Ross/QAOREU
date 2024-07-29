@@ -16,3 +16,5 @@ MATLAB Codes for graphing and viewing results for the 2024 NSF QAO REU at The Un
 *l3entanglement calculates and graphs spatial and particle entanglement for 3 bosons on 3 sites as U' increases.
 
 *inlaid figures graphs ground state energy and the corresponding error in the same figure for increasing U' in 3 boson 3 site case. 
+
+*U_prime_expvsth ensures the implementation of U' in QMC works by graphing theoretical vs QMC ground state energies.
