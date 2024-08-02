@@ -18,3 +18,5 @@ MATLAB Codes for graphing and viewing results for the 2024 NSF QAO REU at The Un
 *inlaid figures graphs ground state energy and the corresponding error in the same figure for increasing U' in 3 boson 3 site case. 
 
 *U_prime_expvsth ensures the implementation of U' in QMC works by graphing theoretical vs QMC ground state energies.
+
+*Corrvsl graphs sigma^2 vs ln(L/πsin(πℓ/L)) on a 8 boson 8 particle system for varrying nmax.
